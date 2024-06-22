@@ -1,0 +1,47 @@
+.home-page {
+  margin: 50px;
+
+
+
+}
+
+.video{
+  border-radius: 10px;
+  width :820px;
+  height:240px;
+  align-items: center;
+
+}
+
+.featured-title {
+  transition: color 0.3s ease; /* Add a transition effect */
+}
+
+.featured-title:hover {
+  color: rgb(128, 128, 128); /* Change the color on hover */
+}
+
+.product-card {
+  transition: transform 0.3s ease; /* Add a transition effect */
+}
+
+.product-card:hover {
+  transform: scale(1.05); /* Increase the size on hover */
+}
+
+
+.product-card {
+  text-align: center;
+  padding: 1rem;
+}
+
+.product-card img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+
+.Center{
+  align-items: center;
+}
